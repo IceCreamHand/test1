@@ -3,7 +3,7 @@ import sys  #系统文件操作
 #from aaa import ttt
 import test
 from PyQt5.QtWidgets import QApplication,QMainWindow
-
+##这只是一个测试
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     MainWindow1 = QMainWindow()  # MainWindow1随便改
