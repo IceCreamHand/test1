@@ -7,7 +7,7 @@ w = QWidget()#窗体
 w.setWindowTitle("刘金玉编程")
 w.resize(400,300)
 w.setWindowIcon(QIcon("img/img.png"))
-w.setToolTip("编程创造城市")
+w.setToolTip("编程创造一个城市")
 
 btn = QPushButton("老刘",w)#按钮控件
 btn.setToolTip("刘金玉编程")
